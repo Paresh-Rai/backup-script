@@ -45,6 +45,7 @@ This repository documents a small lab where a simple python script is used to ba
 
 - I installed netmiko in a venv however, it can also be installed in the global python
 - A CSV was created containing the information for routers
+
 ![CSV file](images/CSV-iMG.png)
 - Created a python file with the following code:
 ![Python Script](images/Python-IMG.png)
